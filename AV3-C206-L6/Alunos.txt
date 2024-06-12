@@ -1,0 +1,25 @@
+****ALUNOS****
+Antonio
+304
+Software
+90.0
+****ALUNOS****
+Anna
+2000
+Telecomunicações
+95.0
+****ALUNOS****
+José
+200
+Computação
+87.0
+****ALUNOS****
+João
+120
+Software
+69.0
+****ALUNOS****
+Maria Clara
+80
+Telecomunicações
+97.0
